@@ -1,0 +1,174 @@
+
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+
+}
+
+
+body{
+
+    font-family: '2p', sans-serif;
+    color: #eee;
+    background-color: #222;
+    border-bottom: 7px solid white;
+}
+
+header{
+    position: relative;
+    height: 35vh;
+    margin-left: 350px;
+}
+
+.guess-number{
+   margin-left: 80px;
+}
+
+.left{
+    padding-top: 50px;
+}
+
+.number{
+    font-size: 50px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-left: 300px;
+    position: relative;
+    width: 80px;
+    border-radius: 5px;
+    height: 25px;
+    background-color: black;
+    display: block;
+margin-top: 50px;
+}
+
+.btw{
+    margin-left: 300px;
+}
+
+.guess-number{
+font-family: 'Times New Roman', Times, serif;
+font-size: 35px;
+padding-top: 30px;
+}
+
+.again{
+    height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    background-color:rgb(88, 56, 43);
+    color: #eee;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border-style: none;
+margin-left: 80px;
+cursor: pointer;
+}
+.again:hover{
+    opacity: 0.3;
+    background-color: rgb(185, 26, 26);
+    color: white;
+    outline-offset: none;
+    box-shadow: rgb(243, 102, 102);
+    z-index: -1;
+    transition: 1s;
+}
+
+
+
+
+.guess{
+    font-size: 40px;
+    width: 70px;
+    height: 60px;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    background-color: black;
+    color: white;
+
+}
+
+
+.left{
+    display: inline-block;
+}
+.right{
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+.lbl-score{
+    font-size: 30px;
+}
+
+.lbl-highscore{
+    font-size: 30px;
+}
+
+.check{
+    cursor: pointer;
+    background-color: rgb(88, 56, 43);
+    color: #eee;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+    display: block;
+    height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.check:hover{
+    opacity: 0.3;
+    background-color: rgb(185, 26, 26);
+    color: white;
+    outline-offset: none;
+    box-shadow: rgb(243, 102, 102);
+    z-index: -1;
+    transition: 0.5s;
+}
+.msg{
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+
+
+main{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 700px;
+    padding-left: 50px;
+    height: 300px;
+    position: absolute;
+    margin-left: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
